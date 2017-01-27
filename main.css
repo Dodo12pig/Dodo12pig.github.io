@@ -1,0 +1,117 @@
+p { 
+	color:orange; 
+	font-size:20 
+}
+
+
+	.listitem {
+color:yellow;
+font-size:20px;
+}
+
+video{position: relative;
+margin-right: 10px}
+
+
+#background{
+	background-color: black;
+color: white;
+}
+
+
+
+
+#button {
+width:150px;
+height:50px;
+color:yellow;
+background-color:violet;
+border-radius:15px;
+}
+
+
+header{height:400px;
+width: 98%
+border:2px solid black;
+background-color:#aef123}
+
+
+footer {
+height:250px;
+width:99%;
+border:2px solid black;
+background-color:#ccf880;
+}
+.trivia-wrap{
+	border:10px white double;
+padding-left: 25px}
+
+
+
+
+wrap-list {
+height:400px;
+width:450px;
+border:10px dashed yellow;
+}
+
+.chickens {
+color: #dab454;
+font-size: 2.1em;
+}
+
+#one{
+	height: 150px;
+width: 150px;
+background-color: red;
+display: inline-block;
+position:absolute;
+z-index: 1}
+
+#two{
+	height: 150px;
+width: 150px;
+background-color: blue;
+display: inline-block;
+position:relative;
+z-index: 2
+top:750px;}
+
+#three{
+	height: 150px;
+width: 150px;
+background-color: yellow;
+display: inline-block;
+position:fixed;
+left: 25%}
+#hi{height: 2048px;}
+
+
+.navitem { 
+list-style-type:none;
+display:inline;
+padding-right:1.5em;
+}
+#navmenu{
+width:250px; 	
+height: 30px;
+margin: auto;
+}
+a:link{ 
+color:red;
+} 
+a:visited{ 
+color:blue;
+} 
+a:hover{ 
+color:purple;
+} 
+a:active{ 
+color:orange;
+}
+.rightside{float: right;
+	width: 100000px;
+
+}
+.leftside{
+width: 100000px;
